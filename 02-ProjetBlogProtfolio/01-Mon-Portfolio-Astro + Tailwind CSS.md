@@ -1,6 +1,6 @@
 
-# 🚀 **Guide complet ultra-structuré : Blog Astro + Tailwind CSS + SEO avancé**
-## 🎯 **Objectif :**
+# Guide complet ultra-structuré : Blog Astro + Tailwind CSS + SEO avancé
+## **Objectif :**
 Créer facilement et rapidement un blog SEO-friendly, minimaliste, performant, pour générer un maximum de trafic vers tes formations Thinkific.
 
 ---
